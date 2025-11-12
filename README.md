@@ -26,8 +26,8 @@ Daftar Nama Anggota Team
                 <td align = center>2</td>
                 <td>Balqis Sofi Nurani</td>
                 <td>2122600034</td>
-                <td>Balqis-Sofi</td>
-                <td> - </td>
+                <td>Balqis-sofi</td>
+                <td>https://github.com/Balqis-sofi</td>
             </tr>
             <tr>
                 <td align = center>3</td>
