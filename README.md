@@ -1,7 +1,12 @@
 # Eye-Protection-System
 Sistem proteksi mata ini menggunakan deteksi wajah untuk memantau durasi pengguna menatap layar. Saat wajah terdeteksi selama 20 detik, muncul pop-up peringatan agar pengguna beristirahat. Jika wajah tidak terlihat selama 7 detik, sistem mereset timer dan mencatat data. Proyek ini membantu mencegah kelelahan mata akibat penggunaan layar berlebih.
 # Pengembang
-Nama: Gusty Anugrah
+Nama: 
+- Alwansyah Muhammad M.E. (2122600031)
+- Balqis Sofi Nurani (2122600034)
+- Gusty Anugrah (2122600040)
+- Dikri Sadam Panca Sakti (2122600049)
+- Wildan Aldi Nugroho (2122600055)
 
 Institusi: [Politeknik Elektronika Negeri Surabaya / Teknik Elektronika]
 
