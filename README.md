@@ -58,4 +58,4 @@ Institusi: [Politeknik Elektronika Negeri Surabaya / Teknik Elektronika]
 5. Aplikasi akan mulai mendeteksi dan menampilkan waktu penggunaan layar.
 
 ## Video Pengujian
-https://github.com/user-attachments/assets/c4d08db7-3594-4449-a02e-efc923f2f3d1
+https://github.com/user-attachments/assets/19442e19-35b0-4388-a736-38138384a12e
