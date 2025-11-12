@@ -56,3 +56,6 @@ Institusi: [Politeknik Elektronika Negeri Surabaya / Teknik Elektronika]
 4. Izinkan akses kamera saat diminta.
 
 5. Aplikasi akan mulai mendeteksi dan menampilkan waktu penggunaan layar.
+
+## Video Pengujian
+https://github.com/user-attachments/assets/c4d08db7-3594-4449-a02e-efc923f2f3d1
