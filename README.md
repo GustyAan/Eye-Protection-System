@@ -70,7 +70,7 @@ Institusi: [Politeknik Elektronika Negeri Surabaya / Teknik Elektronika]
 🔹 Grafik penggunaan per menit untuk analisis kebiasaan pengguna.
 
 🔹 Pembuatan file .exe dengan PyInstaller untuk kemudahan distribusi.
-# Arsitektur SistemFitur Utama
+# Arsitektur Sistem
 <img width="1156" height="891" alt="image" src="https://github.com/user-attachments/assets/dc13d6fd-166d-4b42-9ca6-3904bf33a71d" />
 
 # Tampilan GUI
