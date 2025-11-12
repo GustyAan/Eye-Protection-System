@@ -1,6 +1,8 @@
 # Eye-Protection-System
 Sistem proteksi mata ini menggunakan deteksi wajah untuk memantau durasi pengguna menatap layar. Saat wajah terdeteksi selama 20 detik, muncul pop-up peringatan agar pengguna beristirahat. Jika wajah tidak terlihat selama 7 detik, sistem mereset timer dan mencatat data. Proyek ini membantu mencegah kelelahan mata akibat penggunaan layar berlebih.
+
 # Pengembang
+![Image](https://github.com/user-attachments/assets/b30387c8-218f-43f2-9b8d-afb748fdf2d6)
 Nama: 
 - Alwansyah Muhammad M.E. (2122600031)
 - Balqis Sofi Nurani (2122600034)
