@@ -3,12 +3,56 @@ Sistem proteksi mata ini menggunakan deteksi wajah untuk memantau durasi penggun
 
 # Pengembang
 ![Image](https://github.com/user-attachments/assets/8cb2138d-6069-4bff-85dc-fb954ed2cd84)
-Nama: 
-- Alwansyah Muhammad M.E. (2122600031)
-- Balqis Sofi Nurani (2122600034)
-- Gusty Anugrah (2122600040)
-- Dikri Sadam Panca Sakti (2122600049)
-- Wildan Aldi Nugroho (2122600055)
+Daftar Nama Anggota Team 
+    <table>
+        <thead>
+            <tr>
+                <th>Nomor</th>
+                <th>Nama</th>
+                <th>NRP</th>
+                <th>Nama Akun</th>
+                <th>Link Akun</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td align = center>1</td>
+                <td>Alwansyah Muhammad M.E</td>
+                <td>2122600031</td>
+                <td>alwansyahendrawan</td>
+                <td>https://github.com/alwansyahendrawan</td>
+            </tr>
+            <tr>
+                <td align = center>2</td>
+                <td>Balqis Sofi Nurani</td>
+                <td>2122600034</td>
+                <td>Balqis-Sofi</td>
+                <td> - </td>
+            </tr>
+            <tr>
+                <td align = center>3</td>
+                <td>Gusty Anugrah</td>
+                <td>2122600040</td>
+                <td>GustyAan</td>
+                <td>https://github.com/GustyAan</td>
+            </tr>
+                <tr>
+                <td align = center>4</td>
+                <td>Dikri Sadam Panca Sakti</td>
+                <td>2122600049</td>
+                <td>PDKRSDMPNCSKT</td>
+                <td>https://github.com/DKRSDMPNCSKT</td>
+            </tr>
+                <tr>
+                <td align = center>5</td>
+                <td>Wildan Aldi Nugroho</td>
+                <td>2122600055</td>
+                <td>Wildan-Aldi</td>
+                <td>https://github.com/Wildan-Aldi</td>
+            </tr>
+        </tbody>
+    </table>
+
 
 Institusi: [Politeknik Elektronika Negeri Surabaya / Teknik Elektronika]
 
