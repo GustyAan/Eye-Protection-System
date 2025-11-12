@@ -103,5 +103,15 @@ Institusi: [Politeknik Elektronika Negeri Surabaya / Teknik Elektronika]
 
 5. Aplikasi akan mulai mendeteksi dan menampilkan waktu penggunaan layar.
 
+# Tampilan GUI
+1. Halaman Awal
+<img width="499" height="377" alt="Image" src="https://github.com/user-attachments/assets/8ad30644-4a74-4d02-9155-5a800336c2aa"/>
+
+2. Mode Developer
+<img width="1096" height="778" alt="Image" src="https://github.com/user-attachments/assets/0d3746c7-bc59-4a1f-a59c-4ae5c8f63b12"/>
+
+3. Mode Pengguna
+<img width="797" height="527" alt="Image" src="https://github.com/user-attachments/assets/05143329-cd98-439f-88a3-faae6446db51"/>
+
 ## Video Pengujian
 https://github.com/user-attachments/assets/19442e19-35b0-4388-a736-38138384a12e
