@@ -72,7 +72,9 @@ Institusi: [Politeknik Elektronika Negeri Surabaya / Teknik Elektronika]
 🔹 Pembuatan file .exe dengan PyInstaller untuk kemudahan distribusi.
 # Arsitektur SistemFitur Utama
 <img width="1156" height="891" alt="image" src="https://github.com/user-attachments/assets/dc13d6fd-166d-4b42-9ca6-3904bf33a71d" />
+
 # Teknologi yang Digunakan
+
 🔹 Python versi 3 + (lebih dari 3)
 
 🔹 OpenCV – deteksi wajah dan kamera.
